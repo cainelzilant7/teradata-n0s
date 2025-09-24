@@ -1,0 +1,1 @@
+# teradata-n0s
